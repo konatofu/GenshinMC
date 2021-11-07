@@ -1,7 +1,5 @@
 # GenshinImpactMultipleCalculator
  
-### Genshin Impact Multiple Calculator
-
 株式会社miHoYoがサービス提供している「原神」の多機能計算機です。
  
 # Features
