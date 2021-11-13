@@ -71,7 +71,7 @@ Runtime：.NET Core 3.1以上
 # Author
   
 * 作成者 こなとーふ
-* Twitter @konatofu_game
+* Twitter [@konatofu_game](https://twitter.com/konatofu_game)
 * LAB [HoYoLAB](https://www.hoyolab.com/article/1355900)
 
 # License
