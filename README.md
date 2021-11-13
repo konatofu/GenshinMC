@@ -1,4 +1,4 @@
-# Genshin Impact Multiple Calculator
+# Genshin Impact Multiple Calculator (Genshin MC)
  
 株式会社miHoYoがサービス提供している「原神」の多機能計算機です。
  
