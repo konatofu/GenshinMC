@@ -1,6 +1,13 @@
 # Genshin Impact Multiple Calculator (Genshin MC)
  
 株式会社miHoYoがサービス提供している「原神」の多機能計算機です。
+
+# ScreenShots
+![](https://github.com/konatofu/GenshinMC/blob/e5eab885d0f8fcc2be951315f31c898ca5e6bb42/images/1.png)
+![](https://github.com/konatofu/GenshinMC/blob/e5eab885d0f8fcc2be951315f31c898ca5e6bb42/images/2.png)
+![](https://github.com/konatofu/GenshinMC/blob/e5eab885d0f8fcc2be951315f31c898ca5e6bb42/images/3.png)
+![](https://github.com/konatofu/GenshinMC/blob/e5eab885d0f8fcc2be951315f31c898ca5e6bb42/images/4.png)
+![](https://github.com/konatofu/GenshinMC/blob/e5eab885d0f8fcc2be951315f31c898ca5e6bb42/images/5.png)
  
 # Features
  
