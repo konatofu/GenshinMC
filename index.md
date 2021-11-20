@@ -2,7 +2,7 @@
  
 株式会社miHoYoがサービス提供している「原神」の多機能計算機です。
 
-# ScreenShot
+# ScreenShots
  
 ![](/images/1.png)
 ![](/images//2.png)
