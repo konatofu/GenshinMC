@@ -37,7 +37,7 @@ Runtime：.NET Core 3.1以上
  
 インストール不要です。
 
-解凍したフォルダ内のexeファイル（GenshinImpactMC.exe）を実行してください。
+解凍したフォルダ内のexeファイル（GenshinMC.exe）を実行してください。
 
 # Usage
  
