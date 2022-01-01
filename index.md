@@ -32,7 +32,7 @@ CPU：Intel x64 x86 CPU 及びRyzen CPU
 
 Mem：RAM 1GB以上
 
-Free：30MB以上
+Free：128MB以上
 
 Runtime：.NET Core 3.1以上  
  
