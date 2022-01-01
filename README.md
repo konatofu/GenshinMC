@@ -56,6 +56,8 @@ Runtime：.NET Core 3.1以上
 4．本ソフトウェアがアンチウィルスソフトで検知される場合がありますが、誤検知のため使用の際はホワイトリストにいれて使用してください。
 
 　※本ソフトウェアは外部通信等の制御やシステムファイルを参照する等コードは含まれておらず、スタンドアロン型のソフトウェアです。
+ 
+5．本ソフトウェアはMicrosoft SQL Server LocalDBを利用しています。LocalDBのインストールが確認できなかった場合、機能制限し起動しますのでご注意ください。
 
 ### 免責事項
 1．画像類の著作権は株式会社miHoYoに帰属します。
@@ -72,16 +74,19 @@ Runtime：.NET Core 3.1以上
 
 4．リバースエンジニアリングや逆コンパイル等を行い、悪意のあるソフトウェアに書き換えられた本ソフトウェアの2次配布物については、一切の責任を負いません。
 
-5．その他、本ソフトウェアを利用して生じた、如何なる損害も保障することはできません。
- 
+5．Microsoft SQL Serverの再頒布ライセンスを遵守し配布しております。
+
+6．その他、本ソフトウェアを利用して生じた、如何なる損害も保障することはできません。 
  
 # Author
   
 * 作成者 こなとーふ
 * Twitter [@konatofu_game](https://twitter.com/konatofu_game)
-* LAB [HoYoLAB](https://www.hoyolab.com/article/1355900)
+* LAB [HoYoLAB](https://www.hoyolab.com/article/1834374)
 
 # License
 [Visual Studio 2019](https://visualstudio.microsoft.com/)
+
+[Microsoft SQL Server](https://www.microsoft.com/ja-jp/sql-server)
 
 [MIT license](https://en.wikipedia.org/wiki/MIT_License)
