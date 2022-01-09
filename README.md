@@ -77,6 +77,10 @@ CAフォルダ内の[ CertMainProcess.bat ]を実行して頂くと、証明書�
 [GenshinMC Wiki - Artifact-Rater方式](https://github.com/konatofu/GenshinMC/wiki/%233---%E8%81%96%E9%81%BA%E7%89%A9%E3%82%B9%E3%82%B3%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E6%A9%9F%E8%83%BD#artifact-rater%E6%96%B9%E5%BC%8F)
  
 # Note
+
+### 利用規約
+
+[Genshin Impact Multiple Calculator ソフトウェア利用規約](https://github.com/konatofu/GenshinMC/blob/master/Term%20of%20Use_jp.md)
  
 ### 注意事項
 
@@ -106,7 +110,7 @@ CAフォルダ内の[ CertMainProcess.bat ]を実行して頂くと、証明書�
 
 4．リバースエンジニアリングや逆コンパイル等を行い、悪意のあるソフトウェアに書き換えられた本ソフトウェアの2次配布物については、一切の責任を負いません。
 
-5．その他、本ソフトウェアを利用して生じた、如何なる損害も保障することはできません。 
+5．その他、本ソフトウェアを利用して生じた、如何なる損害も保障することはできません。
  
 # Author
   
