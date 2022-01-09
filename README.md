@@ -35,13 +35,46 @@ Runtime：.NET Core 3.1以上
  
 # Installation
  
-インストール不要です。
+[ ポータブル版 ]
 
-解凍したフォルダ内のexeファイル（GenshinMC.exe）を実行してください。
+インストールは不要です。
+
+解凍フォルダ内にある、exeファイル（GenshinMC.exe）を実行してください。
+
+必要ランタイムパッケージ(.NET Core 3.1)が入っていない方は、各々導入してください。
+
+コードサイニング確認が取れず、Microsoft SmartScreenで実行できない方は、必要に応じて証明書のインストールもお願いします。
+
+解凍フォルダ内の[ ./CA ]フォルダに、証明書導入キットを同梱しています。
+
+CAフォルダ内の[ CertMainProcess.bat ]を実行して頂くと、証明書がインストールされます。
+
+
+[ インストーラ版 ] 
+
+1．Githubダウンロードぺージより、32bitインストーラ(GenshinMCSetup_xxx_x86.exe)、64bitインストーラ(GenshinMCSetup_xxx_x64.exe)を使用環境に応じてダウンロードしてください。
+
+
+2．ダウンロードしたファイルを実行してください。
+
+　この時、Microsoft SmartScreenにより実行できない方は、SmartScreenの詳細情報を開いて頂き、そこから実行してください。
+
+
+3．あとはインストーラの流れに沿って、進めてください。
+
+　この時、必要ランタイムパッケージがインストールされていない場合は、自動的にインストールされます。
+
+　さらに、このタイミングで証明書のインストールも実施されます。
 
 # Usage
  
-必要な項目を入力するだけで自動計算されます。
+各機能にて、必要項目を入力するだけで自動計算されます。
+
+聖遺物スコア計算機能における、Artifact-Rater方式のみ、必要に応じて係数設定が必要です。
+
+本ツールのGithub Wikiにてご確認ください。
+
+[GenshinMC Wiki - Artifact-Rater方式](https://github.com/konatofu/GenshinMC/wiki/%233---%E8%81%96%E9%81%BA%E7%89%A9%E3%82%B9%E3%82%B3%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E6%A9%9F%E8%83%BD#artifact-rater%E6%96%B9%E5%BC%8F)
  
 # Note
  
@@ -57,9 +90,6 @@ Runtime：.NET Core 3.1以上
 
 　※本ソフトウェアは外部通信等の制御やシステムファイルを参照する等コードは含まれておらず、スタンドアロン型のソフトウェアです。
  
-5．本ソフトウェアはMicrosoft SQL Server LocalDBを利用しています。LocalDBのインストールが確認できなかった場合、機能制限し起動しますのでご注意ください。
-
-6．v1.1.3.1よりMicrosoft SQL Server LocalDBは2019(v15.0)のみ動作します。v1.1.3.0は2016 (v13.0)で動作します。下位バージョンへの互換性はありませんので、ご注意ください。
 
 ### 免責事項
 1．画像類の著作権は株式会社miHoYoに帰属します。
@@ -76,9 +106,7 @@ Runtime：.NET Core 3.1以上
 
 4．リバースエンジニアリングや逆コンパイル等を行い、悪意のあるソフトウェアに書き換えられた本ソフトウェアの2次配布物については、一切の責任を負いません。
 
-5．Microsoft SQL Serverの再頒布ライセンスを遵守し配布しております。
-
-6．その他、本ソフトウェアを利用して生じた、如何なる損害も保障することはできません。 
+5．その他、本ソフトウェアを利用して生じた、如何なる損害も保障することはできません。 
  
 # Author
   
@@ -89,6 +117,6 @@ Runtime：.NET Core 3.1以上
 # License
 [Visual Studio 2019](https://visualstudio.microsoft.com/)
 
-[Microsoft SQL Server](https://www.microsoft.com/ja-jp/sql-server)
+[SQLite](https://ja.wikipedia.org/wiki/SQLite)
 
 [MIT license](https://en.wikipedia.org/wiki/MIT_License)
