@@ -7,7 +7,7 @@
 ![](https://github.com/konatofu/GenshinMC/blob/e5eab885d0f8fcc2be951315f31c898ca5e6bb42/images/2.png)
 ![](https://github.com/konatofu/GenshinMC/blob/f972fd1c485e8040f39930e511fae854e68cd9e7/images/artifact-std.png)
 ![](https://github.com/konatofu/GenshinMC/blob/f972fd1c485e8040f39930e511fae854e68cd9e7/images/artifact-ar.png)
-![](https://github.com/konatofu/GenshinMC/blob/e5eab885d0f8fcc2be951315f31c898ca5e6bb42/images/5.png)
+![](https://github.com/konatofu/GenshinMC/blob/28295030a485bac083d9288a8630543e171f1533/images/5.png)
  
 # Features
  
