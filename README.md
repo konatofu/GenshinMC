@@ -46,6 +46,10 @@ Runtime：.NET Core 3.1以上
 本ツールのGithub Wikiにてご確認ください。
 
 [GenshinMC Wiki - Artifact-Rater方式](https://github.com/konatofu/GenshinMC/wiki/%233---%E8%81%96%E9%81%BA%E7%89%A9%E3%82%B9%E3%82%B3%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E6%A9%9F%E8%83%BD#artifact-rater%E6%96%B9%E5%BC%8F)
+
+その他、本ツールの使い方は以下より確認できます。
+
+[GenshinMC Wiki](https://github.com/konatofu/GenshinMC/wiki)
  
 # Note
 
